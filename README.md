@@ -1,5 +1,6 @@
-# React Project for the React Course
+# React Project TodoApp
 
+TodoApp is designed to take notes, highlight completed tasks, clear all previously entered tasks, visibility of the number of completed tasks npm packages were used in this project: 1) https://www.npmjs.com/package/uuid 2) https://www.npmjs.com/package/react-icons
 ## Available Scripts
 
 In the project directory, you can run:
